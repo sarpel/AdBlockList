@@ -1,0 +1,12 @@
+@@||ts.net^
+@@||tailscale.com^
+@@||cloudflare.com^
+@@||sarpel.net^
+@@||enabiz.gov.tr^
+@@||mersinsaglik.gov.tr^
+@@||adguard-dns.io^
+@@||sgk.gov.tr^
+@@||saglik.gov.tr^
+@@||turkiye.gov.tr^
+@@||tarsusmithatpasaasm.com^
+@@||asuscomm.com^
